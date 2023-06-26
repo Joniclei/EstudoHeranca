@@ -21,5 +21,10 @@ namespace Estudoheranca.Entities
       this.Balance += Balance * InteresRate;
     }
 
+   public override void WhithDraw(double amount)
+   {
+      Balance -= amount;
+   }
+
   }
 }

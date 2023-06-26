@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/bin/Debug/net7.0/EstudoHeranca
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/bin/Debug/net7.0/EstudoHeranca.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/bin/Debug/net7.0/EstudoHeranca.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/bin/Debug/net7.0/EstudoHeranca.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/bin/Debug/net7.0/EstudoHeranca.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/refint/EstudoHeranca.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/EstudoHeranca.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoHeranca/obj/Debug/net7.0/ref/EstudoHeranca.dll

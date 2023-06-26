@@ -8,7 +8,19 @@ namespace Estudoheranca
   {
     public static void Main(string[] args)
     {
-      Account ac = new Account(10,"Joao",0.0);
+      Account a = new Account(100, "a",500);
+      Account b = new SavingsAccount(101, "b",500,0.01);
+
+      a.WhithDraw(10);
+      b.WhithDraw(10);
+
+      Console.WriteLine(a.Balance);
+      Console.WriteLine(b.Balance);
+
+
+
+
+      /*Account ac = new Account(10,"Joao",0.0);
       Account account = new SavingsAccount(10,"",0.0,20);
       BusinessAccount x = new BusinessAccount(11,"Lala ",10.5,500);
 
@@ -32,7 +44,7 @@ namespace Estudoheranca
       if ( account is Account)
       {
         BusinessAccount bb = (BusinessAccount)account;
-      }
+      }*/
 
 
     }

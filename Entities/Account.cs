@@ -20,9 +20,9 @@ namespace Estudoheranca.Entities
       this.Balance = balance;
     }
 
-    public void WhithDraw(double amount)
+    public virtual void WhithDraw(double amount)
     {
-      this.Balance -= amount;
+      this.Balance -= amount + 5.0;
     }
 
     public void Deposit(double amount)
