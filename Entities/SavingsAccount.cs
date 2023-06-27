@@ -23,7 +23,9 @@ namespace Estudoheranca.Entities
 
    public override void WhithDraw(double amount)
    {
-      Balance -= amount;
+      base.WhithDraw(amount);
+      Balance -= 2;
+
    }
 
   }
